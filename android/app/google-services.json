@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "197812087580",
+    "firebase_url": "https://weekly-horoscope-20590.firebaseio.com",
+    "project_id": "weekly-horoscope-20590",
+    "storage_bucket": "weekly-horoscope-20590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197812087580:android:7e63c541f172216c9768d9",
+        "android_client_info": {
+          "package_name": "dev.bytecode.daily_horoscope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197812087580-qdcivj5ibt9paq7jhgct5qvkupdb6mel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKNUdkQSJGCkZPFe_XFgMupUbePMip9Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197812087580-qdcivj5ibt9paq7jhgct5qvkupdb6mel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
