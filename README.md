@@ -1,4 +1,4 @@
 # daily_horoscope
 
 
-Horoscope App Project.
+This app is an example of how to use Firebase as backend server for your Flutter projects.
